@@ -1,0 +1,9 @@
+[package]
+name = "lpx-binary-clock"
+version = "0.1.0"
+edition = "2021"
+license = "GPL-3.0-only"
+
+[dependencies]
+midir = "0.7.0"
+chrono = "0.4"
